@@ -1,0 +1,85 @@
+/* Navbar */
+
+nav {background-color: #249ea9;
+}
+
+.navbar-brand{
+    font-size: 20px;
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
+
+/* ¿Quiénes somos? */
+
+#presentacion {
+    color: rgba(255, 255, 255, 0.836);
+    background-color: black;
+}
+
+#presentacion hr{
+    color: #249ea9;
+    border: 1px solid;
+    background-color:#249ea9; ;
+}
+
+#bg-icono {
+    background-color:#249ea9 ;
+}
+
+#presentacion h4, #Sobre-Mi div:last-child{
+    font-family: "Open Sans";
+    line-height: 1,5;
+}
+
+#presentacion h4{
+    font-weight: 600;
+}
+
+
+/* Destacados */
+
+#destacados {
+    color: rgba(255, 255, 255, 0.836);
+    background-color: black;
+}
+
+#destacados hr{
+    color: #249ea9;
+    border: 1px solid;
+    background-color:#249ea9;
+}
+
+.card-body {
+    background-color:#249ea9 ;
+}
+
+
+/* Contacto */
+
+#contacto {
+    color: rgba(255, 255, 255, 0.836);
+    background-color: black;
+}
+
+#contacto hr{
+    color: #249ea9;
+    border: 1px solid;
+    background-color:#249ea9;
+}
+
+
+/* Footer */
+
+footer {
+    background:#249ea9
+    
+}
+
+footer h1{
+    font-family: "Open Sans"
+}
+
+footer a{
+    color: white;
+}
